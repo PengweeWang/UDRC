@@ -1,0 +1,6 @@
+checkpoints/*.pth
+data/*.pkl
+*.log
+__pycache__/
+.idea/
+logs/
