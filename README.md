@@ -2,7 +2,7 @@
 
 UDRC is a radar in-pulse modulation recognition method based on time-spectrum. It has successfully improved the classification accuracy under low signal-to-noise ratio. The technical route is shown in the following figure.
 
-![技术路线](./assets/技术路线.svg)
+![技术路线](https://stastic.s3.bitiful.net/tr.svg)
 
 ## Requirements
 
